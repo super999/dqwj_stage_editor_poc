@@ -2,6 +2,8 @@
 
 Minimal Node.js + TypeScript demo service for SoonFx integration.
 
+[中文说明](./README.zh-CN.md)
+
 ## Project status
 
 This repository is now archived for reference only.

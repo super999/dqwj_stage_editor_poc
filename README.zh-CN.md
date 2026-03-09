@@ -2,6 +2,8 @@
 
 用于 SoonFx 集成验证的最小 Node.js + TypeScript 演示服务。
 
+[English](./README.md)
+
 ## 项目状态
 
 当前仓库已转为归档参考用途，不再继续推进为正式项目。  
